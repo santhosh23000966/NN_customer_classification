@@ -103,16 +103,17 @@ def train_model(model, train_loader, criterion, optimizer, epochs):
 
 ### Confusion Matrix
 
-Include confusion matrix here
+<img width="739" height="533" alt="image" src="https://github.com/user-attachments/assets/a67d28bb-8982-4ade-98df-87664b980a3e" />
 
 ### Classification Report
 
-Include Classification Report here
+<img width="480" height="331" alt="image" src="https://github.com/user-attachments/assets/41b05f7d-f453-477c-8b54-a8164a712626" />
 
 
 ### New Sample Data Prediction
 
-Include your sample input and output here
+<img width="280" height="96" alt="image" src="https://github.com/user-attachments/assets/d3f16b7c-d76c-43aa-96f2-6c0939996894" />
 
 ## RESULT
-Include your result here
+Thus, a neural network classification model for the given dataset as been created successfully.
+
